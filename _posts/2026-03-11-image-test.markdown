@@ -26,13 +26,8 @@ tags:
 ![图片描述](/img/in-post/post-eleme-pwa/Architecture.png)
 ```
 
-![图 0](../images/ed9aff283ad3570fc8c73589b2397e4a48adf0440bf83a8e9a1a708e9e388da9.png)  
+![图 4](/img/in-post/8671ce6b75a71a5c7330fcd20ae470d335be7927a343f0c4bc751b40ffd129da.png)  
 
-
-![图 1](../images/ed9aff283ad3570fc8c73589b2397e4a48adf0440bf83a8e9a1a708e9e388da9.png)  
-![图 2](../images/ed9aff283ad3570fc8c73589b2397e4a48adf0440bf83a8e9a1a708e9e388da9.png)  
-![图 3](../images/ed9aff283ad3570fc8c73589b2397e4a48adf0440bf83a8e9a1a708e9e388da9.png)  
-![图 4](../images/ed9aff283ad3570fc8c73589b2397e4a48adf0440bf83a8e9a1a708e9e388da9.png)  
 
 效果如下：
 
